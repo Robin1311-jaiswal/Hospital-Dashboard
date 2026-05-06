@@ -1,6 +1,6 @@
 # Hospital Analytics Dashboard
 
-![Overview Dashboard]()
+![Home Dashboard](https://github.com/Robin1311-jaiswal/Hospital-Dashboard/raw/main/Snapshot%20of%20Home%20Dashboard.png)
 
 # Recommended Structure and Order
 
@@ -134,7 +134,13 @@ Supports financial analysis and inventory decision-making.
 - Provided a consolidated view of operational and financial KPIs for better decision-making.
 
 # (v) Screenshots of the Dashboard
-![Home Dashboard](https://github.com/Robin1311-jaiswal/Hospital-Dashboard/raw/main/Snapshot%20of%20Home%20Dashboard.png)
+![Overview Dashboard](https://github.com/Robin1311-jaiswal/Hospital-Dashboard/raw/main/Snapshot%20of%20Overview%20Dashboaord.png)
+![Patients Dashboard](https://github.com/Robin1311-jaiswal/Hospital-Dashboard/raw/main/Snapshot%20of%20Patient%20Dashboard.png)
+![Doctors Dashboard](https://github.com/Robin1311-jaiswal/Hospital-Dashboard/raw/main/Snapshot%20of%20Doctors%20Dashboard.png)
+![Hospital Dashboard](https://github.com/Robin1311-jaiswal/Hospital-Dashboard/raw/main/Snapshot%20of%20Hospital%20Dashboard.png)
+![Financial Dashboard](https://github.com/Robin1311-jaiswal/Hospital-Dashboard/raw/main/Snapshot%20of%20Financial%20Dashboard.png)
+
+
 
 
 
